@@ -1,7 +1,7 @@
 # Task Management System
 <img width="700" alt="image" src="https://github.com/user-attachments/assets/d4e02a4e-e5de-4436-be93-451b30b641fb" />
 
-<img width="1365" height="716" alt="Screenshot 2026-08-29 232922" src="https://github.com/user-attachments/assets/47382066-5b88-4b78-afdd-2307ffc5e4f3" />
+<img width="700" height="716" alt="Screenshot 2026-08-29 232922" src="https://github.com/user-attachments/assets/47382066-5b88-4b78-afdd-2307ffc5e4f3" />
 
 
 
