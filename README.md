@@ -1,4 +1,6 @@
 # Task Management System
+<img width="1365" height="683" alt="image" src="https://github.com/user-attachments/assets/d4e02a4e-e5de-4436-be93-451b30b641fb" />
+
 
 Follow these simple steps to set up and run the system on your local machine.
 
