@@ -1,5 +1,14 @@
 # Task Management System
-<img width="700" alt="image" src="https://github.com/user-attachments/assets/d4e02a4e-e5de-4436-be93-451b30b641fb" /> <img width="502" height="556" alt="image" src="https://github.com/user-attachments/assets/6b46de7c-7c04-4103-a4ba-528c87e51d35" />
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://github.com/user-attachments/assets/d4e02a4e-e5de-4436-be93-451b30b641fb" alt="Admin Dashboard" width="100%" />
+    </td>
+    <td width="50%">
+      <img src="https://github.com/user-attachments/assets/6b46de7c-7c04-4103-a4ba-528c87e51d35" alt="Employee Dashboard" width="100%" />
+    </td>
+  </tr>
+</table>
 
 
 <br><br>
