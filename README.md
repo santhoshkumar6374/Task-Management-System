@@ -1,7 +1,7 @@
 # Task Management System
 <table>
   <tr>
-    <td width="50%">
+    <td width="70%">
       <img src="https://github.com/user-attachments/assets/d4e02a4e-e5de-4436-be93-451b30b641fb" alt="Admin Dashboard" width="100%" />
     </td>
     <td width="50%">
