@@ -1,4 +1,6 @@
 # Task Management System
+
+<b>Admin Dashboard</b>
 <table>
   <tr>
     <td width="70%">
@@ -9,10 +11,11 @@
     </td>
   </tr>
 </table>
- <b>Admin Dashboard</b>
+
 
 <br><br>
 
+<b>Employee Dashboard</b>
 <img width="700"  alt="Screenshot 2026-08-29 232922" src="https://github.com/user-attachments/assets/47382066-5b88-4b78-afdd-2307ffc5e4f3" />
 
 
