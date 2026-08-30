@@ -11,13 +11,10 @@
     </td>
   </tr>
 </table>
-
-
 <br><br>
 
 <b>Employee Dashboard</b>
 <br><br>
-
 <img width="700"  alt="Screenshot 2026-08-29 232922" src="https://github.com/user-attachments/assets/47382066-5b88-4b78-afdd-2307ffc5e4f3" />
 
 
