@@ -1,5 +1,7 @@
 # Task Management System
 
+IMPORTANT STEP COPY OR CHANGE .ENV FILE TO your details and passwords (mongo url,jwt, admin email and password)
+
 <b>Admin Dashboard</b>
 <table>
   <tr>
